@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="920df129-3c63-4362-b961-21f1e72cec70" name="Changes" comment="Hello">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-2/Ex_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-2/Ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex14.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex16.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex18.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex19.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex20.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex21.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex22.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex23.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/Ex___9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex16.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-4/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-4/Ex____9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex8.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5fd2bdaa-cb4e-4a5b-b699-6b2f552b8144" />
+        <option name="url" value="https://github.com/Hemangpatel1774/Java-Assignment-34.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VZ0WEooTBa2IzKlgNjpWHMZ3rV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/study/College/answers/JAVA",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="920df129-3c63-4362-b961-21f1e72cec70" name="Changes" comment="" />
+      <created>1695028326495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695028326495</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1695216720509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695216720509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello" />
+  </component>
+</project>
