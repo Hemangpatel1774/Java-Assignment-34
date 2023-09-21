@@ -4,32 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="920df129-3c63-4362-b961-21f1e72cec70" name="Changes" comment="Roll_no_34">
-      <change afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/src/A5ex9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-5/Assignment-5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/answers.iml" afterDir="false" />
-    </list>
+    <list default="true" id="920df129-3c63-4362-b961-21f1e72cec70" name="Changes" comment="Roll_no_34" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -51,6 +32,7 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <branch-grouping />
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -95,7 +77,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "C:/study/College/answers/JAVA/Assignment-5/src",
+    "last_opened_file_path": "C:/study/College/answers/JAVA",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -112,21 +94,6 @@
       <recent name="C:\study\College\answers\JAVA" />
       <recent name="C:\study\College\answers\JAVA\Assignment-5\out\production\Assignment-4" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="answers" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="answers" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -193,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695290099784</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Roll_no_34">
+      <option name="closed" value="true" />
+      <created>1695292473851</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695292473851</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Roll_no_34">
+      <option name="closed" value="true" />
+      <created>1695293323835</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695293323835</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,5 +206,16 @@
     <MESSAGE value="Hello" />
     <MESSAGE value="Roll_no_34" />
     <option name="LAST_COMMIT_MESSAGE" value="Roll_no_34" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Assignment-5/src/A5ex4.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
