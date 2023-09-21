@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="920df129-3c63-4362-b961-21f1e72cec70" name="Changes" comment="Roll_no_34">
-      <change afterPath="$PROJECT_DIR$/Assignment-6.2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-2/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-2/Ex2_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PackageExercise/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-6.1/PackageExercise/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PackageExercise/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-6.1/PackageExercise/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PackageExercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-6.1/PackageExercise/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PackageExercise/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-6.1/PackageExercise/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PackageExercise/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-6.1/PackageExercise/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PackageExercise/PackageExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-6.1/PackageExercise/PackageExercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PackageExercise/src/com/mycompany/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-6.1/PackageExercise/src/com/mycompany/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PackageExercise/src/com/mycompany/math/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-6.1/PackageExercise/src/com/mycompany/math/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/answers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/answers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/answers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/answers/ex2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +64,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -208,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695300117448</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Roll_no_34">
+      <option name="closed" value="true" />
+      <created>1695308356432</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695308356432</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
