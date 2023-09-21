@@ -5,7 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="920df129-3c63-4362-b961-21f1e72cec70" name="Changes" comment="Roll_no_34">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Changes1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/Assignment-5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/Assignment-5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/A5ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/A5ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/A5ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/A5ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/A5ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/A5ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/A5ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/A5ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/A5ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/A5ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/A5ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/A5ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/A5ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/A5ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/A5ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/A5ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/A5ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/A5ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/src/A5ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/A5ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/A5ex1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/A5ex10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/A5ex2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/A5ex3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/A5ex4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/A5ex5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/A5ex6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/A5ex7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/A5ex8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/A5ex9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Child_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Child_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Contractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Ctr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/FTEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/FullTimeEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/first.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment-5/sub_class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/answers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/answers/.idea/Assignment-4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/answers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/answers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/answers/Assignment-3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/answers/out/production/Assignment-3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/answers/out/production/Assignment-3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/answers/out/production/Assignment-3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/answers/out/production/Assignment-3/Assignment-3.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +70,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -68,6 +132,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\study\College\answers\JAVA\Assignment-5\out\production\Assignment-4" />
+      <recent name="C:\study\College\answers\JAVA\Assignment-5\src" />
+      <recent name="C:\study\College\answers\JAVA" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -117,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695230299637</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Roll_no_34">
+      <option name="closed" value="true" />
+      <created>1695288783664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695288783664</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
