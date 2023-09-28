@@ -13,6 +13,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Assignment-6.1/PackageExercise/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Assignment-6.2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Assignment-6.2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/assignment-7.1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/assignment-7.1/DifferentPackage" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/assignment-7.1/SamePackage" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
