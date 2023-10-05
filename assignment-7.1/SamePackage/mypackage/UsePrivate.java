@@ -1,9 +1,8 @@
 package mypackage;
 
 public class UsePrivate {
-    String string = "Hello world";
     private void show(){
-        System.out.println(string);
+        System.out.println("Hello world");
     }
     public static void main(String[] args){
         UsePrivate obj = new UsePrivate();

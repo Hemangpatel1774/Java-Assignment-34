@@ -1,9 +1,8 @@
 package mypackage;
 
 public class UseProtect {
-    String string = "Hello world";
     protected void show(){
-        System.out.println(string);
+        System.out.println("Hello world");
     }
     public static void main(String[] args){
         UseProtect obj = new UseProtect();

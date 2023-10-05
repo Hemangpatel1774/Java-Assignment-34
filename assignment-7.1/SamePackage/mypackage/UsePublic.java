@@ -2,10 +2,8 @@
 package mypackage;
 
 public class UsePublic {
-    String str = "Hello";
     public void display(){
-
-        System.out.println(str);
+        System.out.println("Hello");
     }
     public static void main(String[] args) {
         UsePublic obj = new UsePublic();

@@ -6,6 +6,7 @@ public class PrivateOverride extends MakePrivate{
     }
     public static void main(String[] args) {
         PrivateOverride obj = new PrivateOverride();
-        obj.display();
+        //obj.display();
+        System.out.println("Private Method cannot be access in Different Package.");
     }
 }

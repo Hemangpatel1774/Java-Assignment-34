@@ -2,11 +2,10 @@ package mypackage;
 import mypackage.UseProtect;
 public class OverrideProtect extends UseProtect {
     protected void show(){
-        string += " ,Method Override by using 'Protected' Accessibility.";
-        System.out.println(string);
+        System.out.println("Method Override by using 'Protected' Accessibility.");
     }
     public static void main(String[] args) {
-        OverrideProtect obj = new OverrideProtect();
+        UseProtect obj = new OverrideProtect();
         obj.show();
     }
 }

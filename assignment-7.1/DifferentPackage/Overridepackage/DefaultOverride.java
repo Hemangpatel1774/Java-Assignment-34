@@ -8,7 +8,8 @@ public class DefaultOverride extends MakeDefault{
             System.out.println("Method Override in Different Package by using 'Default' Accessibility.");
     }
     public static void main(String[] args) {
-       DefaultOverride obj = new DefaultOverride();
-        obj.display();
+       MakeDefault obj = new DefaultOverride();
+        //obj.display();
+        System.out.println("Default Method cannot be access in Different Package.");
     }
 }
